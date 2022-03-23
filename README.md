@@ -1,13 +1,13 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Heya, I'm Igors (Igor) Dubanevics!
 
-I'm Computational Physicist looking for new projects I can apply my technical and artisitic skills. I´m based in Riga, Latvia.
+I'm a Computational Physicist looking for new projects I can apply my technical and artistic skills. I´m based in Riga, Latvia.
 
-During my university studies I gradually transitioned from Chemistry to Physics and, since 2020, I've been working with [scientific code](https://github.com/igordub/ddpt). Besides immersing myself in many different works and projects, I actively learn music and singing 🎤.
+During my university studies, I gradually transitioned from Chemistry to Physics and, since 2020, I've been working with [scientific code](https://github.com/igordub/ddpt). Besides immersing myself in many different works and projects, I actively learn music and singing 🎤.
 
 ### What I'm focusing on 👨‍💻
 
 Currently, I'm improving my code design skills with a focus on reproducibility.<br />
-BTW, if you´re looking for a scinetific template for a CompBioPhys based project, take a look at this [Computational Biophysics project template that I created](https://github.com/igordub/comp-biophys-research-project).
+BTW, if you´re looking for a scientific template for a CompBioPhys based project, take a look at this [Computational Biophysics project template that I created](https://github.com/igordub/comp-biophys-research-project).
 
 ### Find me elsewhere 🌎
 
